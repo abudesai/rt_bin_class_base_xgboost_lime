@@ -12,7 +12,7 @@ XGB Classifier in SciKitLearn with LIME explanations for Binary Classification -
 - docker
 - binary classification
 
-This is a Multi-class Classifier using XGB. Model also includes local explanations with LIME for model interpretability.
+This is a Binary Classifier using XGB. Model also includes local explanations with LIME for model interpretability.
 
 The classifier starts by trying to find a boundary between the two different classes of data and aims to maximize the distance between the data points and the boundary.
 
